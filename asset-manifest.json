@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Lofi-Byte/static/css/main.3d3dab5d.css",
+    "main.js": "/Lofi-Byte/static/js/main.52fc3c1c.js",
+    "static/js/787.28cb0dcd.chunk.js": "/Lofi-Byte/static/js/787.28cb0dcd.chunk.js",
+    "static/media/logo.svg": "/Lofi-Byte/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Lofi-Byte/index.html",
+    "main.3d3dab5d.css.map": "/Lofi-Byte/static/css/main.3d3dab5d.css.map",
+    "main.52fc3c1c.js.map": "/Lofi-Byte/static/js/main.52fc3c1c.js.map",
+    "787.28cb0dcd.chunk.js.map": "/Lofi-Byte/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d3dab5d.css",
+    "static/js/main.52fc3c1c.js"
+  ]
+}
