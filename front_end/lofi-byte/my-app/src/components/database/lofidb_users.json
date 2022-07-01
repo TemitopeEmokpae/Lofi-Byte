@@ -1,0 +1,37 @@
+[
+  {
+    "userID": 28823115,
+    "userName": "SSDScoobSnacks",
+    "firstName": "Scooby",
+    "lastName": "Doo",
+    "email": "mystergang@gmail.com"
+  },
+  {
+    "userID": 55781231,
+    "userName": "mikeyMDis",
+    "firstName": "Mickey",
+    "lastName": "Mouse",
+    "email": "MMDisney@gmail.com"
+  },
+  {
+    "userID": 62787360,
+    "userName": "Numbuh1NU",
+    "firstName": "Nigel",
+    "lastName": "Uno",
+    "email": "kndnumbuh1@gmail.com"
+  },
+  {
+    "userID": 94113963,
+    "userName": "sQbikibottom",
+    "firstName": "SpongeBob",
+    "lastName": "SquarePants",
+    "email": "spongebobKK@gmail.com"
+  },
+  {
+    "userID": 97113039,
+    "userName": "toMtOM22",
+    "firstName": "Tommy",
+    "lastName": "Pickles",
+    "email": "rugrats@gmail.com"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "albumID": 181350441,
+    "albumName": "My Little Town",
+    "artistID": 212518623,
+    "yearReleased": 2022
+  },
+  {
+    "albumID": 225217187,
+    "albumName": "Ambient Chill",
+    "artistID": 674742220,
+    "yearReleased": 2020
+  },
+  {
+    "albumID": 310447316,
+    "albumName": "Adventure Island",
+    "artistID": 858631238,
+    "yearReleased": 2021
+  },
+  {
+    "albumID": 556813591,
+    "albumName": "Watching Anime",
+    "artistID": 423486178,
+    "yearReleased": 2022
+  },
+  {
+    "albumID": 874074972,
+    "albumName": "Evening Nights",
+    "artistID": 767842856,
+    "yearReleased": 2022
+  }
+]
