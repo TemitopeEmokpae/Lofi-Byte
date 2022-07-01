@@ -1,0 +1,47 @@
+[
+  {
+    "songID": 105151128,
+    "songTitle": "Homework",
+    "songDuration": "3:32",
+    "yearReleased": 2020,
+    "artistID": 674742220,
+    "albumID": 225217187,
+    "userID": 97113039
+  },
+  {
+    "songID": 152828706,
+    "songTitle": "Where The Waves Take Us",
+    "songDuration": "3:17",
+    "yearReleased": 2021,
+    "artistID": 858631238,
+    "albumID": 310447316,
+    "userID": 10812518
+  },
+  {
+    "songID": 160442447,
+    "songTitle": "Watching Anime",
+    "songDuration": "3:42",
+    "yearReleased": 2022,
+    "artistID": 423486178,
+    "albumID": 556813591,
+    "userID": 94113963
+  },
+  {
+    "songID": 169360389,
+    "songTitle": "Evening Nights",
+    "songDuration": "2:20",
+    "yearReleased": 2022,
+    "artistID": 767842856,
+    "albumID": 874074972,
+    "userID": 28823115
+  },
+  {
+    "songID": 755143178,
+    "songTitle": "Another Day",
+    "songDuration": "2:13",
+    "yearReleased": 2022,
+    "artistID": 212518623,
+    "albumID": 181350441,
+    "userID": 55781231
+  }
+]
