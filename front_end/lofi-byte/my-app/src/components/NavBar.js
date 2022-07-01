@@ -1,7 +1,7 @@
 import React, {Component} from 'react'
 import {Link, useMatch, useResolvedPath} from 'react-router-dom'
 import '../css/NavBar.css'
-import JSONDATA from '../Artist.json'
+import JSONDATA from '../test.json'
 import { useState } from 'react'
 export default function NavBar(){
     const [searchTerm, setSearchTerm] = useState('');
@@ -22,14 +22,15 @@ export default function NavBar(){
             {JSONDATA.filter((val)=>{
                 if(searchTerm == ""){
                     return "";
-                } else if(val.first_name.toLowerCase().includes(searchTerm.toLowerCase())){
-                    return val.first_name;
+                } else if(val.title.toLowerCase().includes(searchTerm.toLowerCase())){
+                    return val.title;
                 }
             }).map((val, key)=>{
                 return(
                     <div className='Search' key={key}>
-                        {/* <CustomLink to={"/" + val.}>Home</CustomLink> */}
-                        <p>{val.first_name}</p>
+                        <a className='dataItem' href={`/Songs/${val.title}`}>
+                        <p>{val.title}</p>
+                        </a>
                     </div>
                 );
             })}

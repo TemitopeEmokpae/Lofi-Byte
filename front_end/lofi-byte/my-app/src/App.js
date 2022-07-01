@@ -18,7 +18,7 @@ function App() {
       style={
         {backgroundColor: '#4A65AD',
         width: '100',
-        height: '745px'}}
+       }}
         >
           <NavBar>
           </NavBar>
