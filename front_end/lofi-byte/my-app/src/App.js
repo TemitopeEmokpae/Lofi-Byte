@@ -18,15 +18,17 @@ function App() {
       style={
         {backgroundColor: '#4A65AD',
         width: '100',
-        height: '1000px'}}
+        height: '745px'}}
         >
-          <NavBar></NavBar>
+          <NavBar>
+          </NavBar>
           <Routes>
             <Route path='/Home' element ={<Home/>} />
             <Route path='/Songs' element ={<Songs/>} />
             <Route path='/Albums' element ={<Albums/>} />
             <Route path='/Artists' element ={<Artists/>} />
           </Routes>
+          
       </div>
     </div>
   );
