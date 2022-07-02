@@ -6,7 +6,8 @@
     "yearReleased": 2020,
     "artistID": 674742220,
     "albumID": 225217187,
-    "userID": 97113039
+    "userID": 97113039,
+    "url": "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
   },
   {
     "songID": 152828706,
@@ -15,7 +16,8 @@
     "yearReleased": 2021,
     "artistID": 858631238,
     "albumID": 310447316,
-    "userID": 10812518
+    "userID": 10812518,
+    "url": "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
   },
   {
     "songID": 160442447,
@@ -24,7 +26,8 @@
     "yearReleased": 2022,
     "artistID": 423486178,
     "albumID": 556813591,
-    "userID": 94113963
+    "userID": 94113963,
+    "url": "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
   },
   {
     "songID": 169360389,
@@ -33,7 +36,8 @@
     "yearReleased": 2022,
     "artistID": 767842856,
     "albumID": 874074972,
-    "userID": 28823115
+    "userID": 28823115,
+    "url": "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
   },
   {
     "songID": 755143178,
@@ -42,6 +46,7 @@
     "yearReleased": 2022,
     "artistID": 212518623,
     "albumID": 181350441,
-    "userID": 55781231
+    "userID": 55781231,
+    "url": "http://commondatastorage.googleapis.com/codeskulptor-assets/Epoq-Lepidoptera.ogg"
   }
 ]
